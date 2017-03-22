@@ -1,0 +1,1 @@
+zastosowanie algorytmu przeglądającego wszystkie wierzchołki
