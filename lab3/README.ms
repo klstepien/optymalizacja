@@ -2,6 +2,7 @@ zastosowanie algorytmu przeglądającego wszystkie wierzchołki
 
 https://repl.it/Gimi/2
 
+Algorytm wykonałam z Martyną Skiwniewską
 Wyniki dla naszego algorytmu: 
 
 a) dla zad.4/lab3
